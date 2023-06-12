@@ -9,10 +9,13 @@
 
 
 Durante la ejecución de nuestro código, se utilizaron varios métodos en JavaScript, dejamos aquí algunos de ellos para facilitar sus búsquedas en el proceso de estudio
-  [Includes()]
-  [toLowerCase()]
-  [replaceAll()]
-  [navigator.clipboard]
-  [Element.style]
- 
+<ul>
+     <li>[Includes()]</li>
+     <li>[toLowerCase()]</li>
+     <li>[replaceAll()]</li>
+     <li>[navigator.clipboard]</li>
+     <li>[Element.style]</li>
+</ul>
+  
+  
 
