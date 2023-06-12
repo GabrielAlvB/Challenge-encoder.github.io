@@ -16,6 +16,3 @@ Durante la ejecución de nuestro código, se utilizaron varios métodos en JavaS
   [Element.style]
  
 
-2) Publicarlo en GitHub Pages: [Paso a Paso para activar tu proyecto en GitHub Pages](https://www.aluracursos.com/blog/github-pages) 
-
-     <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
