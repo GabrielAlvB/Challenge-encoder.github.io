@@ -26,13 +26,19 @@ Durante la ejecución de nuestro código, se utilizaron varios métodos en JavaS
      <li>[Element.style]</li>
 </ul>
   
-Requisitos:
+<b>Requisitos:</b>
 
-Debe funcionar solo con letras minúsculas
-No deben ser utilizados letras con acentos ni caracteres especiales
-Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
-Por ejemplo:
+<ul>
+  <li>Debe funcionar solo con letras minúsculas</li>
+  <li>No deben ser utilizadas letras con acentos ni caracteres especiales</li>
+  <li>Debe ser posible convertir una palabra a su versión encriptada</li>
+  <li>También se debe poder convertir una palabra encriptada a su versión original</li>
+</ul>
+
+<b>Por ejemplo:</b>
+
 "gato" => "gaitober"
+
 gaitober" => "gato"
 
 La página debe tener campos para
